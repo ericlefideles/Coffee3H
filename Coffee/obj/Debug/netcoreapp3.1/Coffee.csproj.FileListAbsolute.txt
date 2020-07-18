@@ -35,7 +35,6 @@ D:\Site\Coffee\Coffee\obj\Debug\netcoreapp3.1\Coffee.genruntimeconfig.cache
 D:\Site\Coffee\Coffee\obj\Debug\netcoreapp3.1\Coffee.csproj.CopyComplete
 D:\Site\Coffee\Coffee\bin\Debug\netcoreapp3.1\libman.json
 D:\Site\Coffee\Coffee\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
-D:\Site\Coffee\Coffee\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
 D:\Site\Coffee\Coffee\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
 D:\Site\Coffee\Coffee\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
 D:\Site\Coffee\Coffee\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
@@ -175,3 +174,4 @@ D:\Site\Coffee\Coffee\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Delete.cshtml
 D:\Site\Coffee\Coffee\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Details.cshtml.g.cs
 D:\Site\Coffee\Coffee\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Edit.cshtml.g.cs
 D:\Site\Coffee\Coffee\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Index.cshtml.g.cs
+D:\Site\Coffee\Coffee\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Sucess.cshtml.g.cs

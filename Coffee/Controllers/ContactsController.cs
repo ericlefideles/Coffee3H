@@ -66,7 +66,7 @@ namespace Coffee.Controllers
                 contact.DateCreate = DateTime.Now;
                 _context.Add(contact);
                 await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Create));
+                return View("Sucess");
             }
             return View(contact);
         }
