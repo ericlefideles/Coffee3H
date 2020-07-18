@@ -1,5 +1,8 @@
 # Coffee3H
 
-Tecnologia: Asp.NET core MVC Core
+Tecnologia: Asp.NET core > MVC Core
 
-Mi
+Observação: Foi usado migrations para manipular dados:
+1 - add-migration FirstMigratio
+2 - update-database
+    
